@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <style>
+    h1 {font-family:Georgia, serif;}
+    p {font-family: Times, TimesNR, 'New Century Schoolbook', Georgia, 'New York', serif;}
+    h1,h2{text-align: center;}
+    </style>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<div class="p-3 mb-2 bg-secondary text-white"></div>
+    <title>virus movies.com</title>
+  </head>
+  <body>
+    <h1>virus movies.com<h1>
+    <h2>This is a website for recording movies affected by the COVID-19</h2><br>
+
+<div class="container-fluid">
+
+    <div class="bd-example">
+    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="1.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Mission: Impossible</h5>
+            <p>2.25 Impossible 7 were temporarily shut down.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="2.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Shang-chi</h5>
+            <p>Disney announced that Marvel's "Shang-Chi" were temporarily shut down.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="3.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Greyhound</h5>
+            <p>Tom Hanks movie grayhoud was Delayed release</p>
+          </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
+
+<br>
+
+<div class="container-fluid">
+<div class="row text-center">
+  <div class="col-4">
+    <div class="card" style="width: 28rem;">
+  <img class="card-img-top" src="5.jpg" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">Disney announced the postponement of the release of its two new animated films,  Soul and Raya and The Last Dragon.</p>
+  </div>
+  </div>
+  </div>
+
+  <div class="col-4">
+    <div class="card" style="width: 28rem;">
+  <img class="card-img-top" src="6.jpg" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">Mobias, a Sony film starring Jared Leto, announced a delay until December. </p>
+  </div>
+  </div>
+  </div>
+  <div class="col-4">
+    <div class="card" style="width: 28rem;">
+  <img class="card-img-top" src="7.jpg" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">The Cannes organizing committee officially announced that the Cannes Film Festival will not be held in June.</p>
+  </div>
+  </div>
+  </div>
+</div>
+</div>
+<br>
+
+<div class="container-fluid">
+<div class="row text-center">
+  <div class="col-4">
+    <div class="card" style="width: 28rem;">
+  <img class="card-img-top" src="8.jpg" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">Ann Sullivan, a senior animator at Disney, died at the age of 91 due to complications of infection with the COVID-19. </p>
+  </div>
+  </div>
+  </div>
+  <div class="col-4">
+    <div class="card" style="width: 28rem;">
+  <img class="card-img-top" src="9.jpg" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">The new DC film Wonder woman 2, originally scheduled to be released on June 5, was released on August 14.</p>
+  </div>
+  </div>
+  </div>
+  <div class="col-4">
+    <div class="card" style="width: 28rem;">
+  <img class="card-img-top" src="10.jpg" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">Disney officially announced the release of Marvel's new film "black widow" on May 1 in North America.</p>
+  </div>
+  </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
